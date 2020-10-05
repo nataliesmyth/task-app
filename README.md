@@ -9,7 +9,7 @@ This application allows the user to create tasks and show them on their own to d
 * Deployed API: <https://cryptic-harbor-00209.herokuapp.com/>
 * Deployed client: <https://nataliesmyth.github.io/task-app-client/>
 * Client repository: <https://github.com/nataliesmyth/task-app-client>
-* ERD: <https://imgur.com/gallery/3StZCEO>
+* Entity-Relationship Diagram: <https://imgur.com/gallery/3StZCEO>
 
 ### Technologies Used
 

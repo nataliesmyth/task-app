@@ -1,4 +1,4 @@
-# Get It Done
+# BETTR
 
 An API made with express to store data for this productivity web application.
 A productivity application to keep track tasks you need to get done.
